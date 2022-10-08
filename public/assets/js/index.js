@@ -1,3 +1,6 @@
+const fs = require('fs');
+const path = require('path');
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
